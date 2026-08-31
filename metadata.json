@@ -1,0 +1,6 @@
+{
+  "name": "Barbearia do Warley",
+  "description": "Aplicativo completo de gestão para a Barbearia do Warley com níveis de acesso para Proprietário, Profissionais e Clientes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
